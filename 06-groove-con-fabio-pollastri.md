@@ -141,7 +141,7 @@ Il docente (un batterista) introduce il corso di musica d'insieme e consapevolez
 * **Rapporto tra BPM e battito cardiaco:** La maggior parte della musica da ballo si attesta tra i 100 e i 120 BPM perché questa velocità rispecchia la frequenza del battito cardiaco umano sotto sforzo o emozione.
 * **Valore primordiale del ritmo:** Il ritmo è la forma di espressione musicale più antica dell'umanità. Agisce sulla parte più istintiva del subconscio (motivo per cui spinge al movimento involontario o viene usato per caricare gli eserciti), legando la percezione fisica all'ascolto musicale.
 
-### Assegnazioni per la prossima volta
+### Materiale
 
 Buongiorno a tutti ragazzi
 
