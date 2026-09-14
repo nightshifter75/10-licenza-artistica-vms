@@ -155,8 +155,19 @@ Vi invio qui del materiale da studiare per il nostro prossimo incontro, previsto
 - ⁠VIDEO PER COMPRENDERE BENE COME SI SCRIVE LA BATTERIA SU PENTAGRAMMA: https://youtu.be/XKxSJHLZtkI
 - DETTATO RITMICO CON VOCI BATTERIA: si tratta di un breve file audio in cui il tempo (pulsazione/bpm) è scandito da un metronomo, e ci sono alcune note (quarti ed ottavi) suonati da alcuni elementi della batteria. Non ci sono mai unisoni (a parte ovviamente quelli con il suono del metronomo), ogni suono che si può ascoltare è prodotto da un singolo elemento della batteria.
 
+DETTATO RITMICO: 
+vuota
+rullante 1/4 rullante 1/4 cassa 1/4 cassa 1/4
+rullante 1/4 hi-hat chiuso 1/8 1/8 rullante 1/4 cassa 1/4
+tom piccolo 1/8 1/8 tom grande 1/8 1/8 timpano 1/8 1/8 1/4
+tom piccolo 1/8 1/8 tom grande 1/8 1/8 timpano 1/8 1/8 1/4
+ride 1/4 crash 1/4 ride 1/4 crash 1/4 
+hi-hat chiuso 1/8 1/8 1/8 pausa 1/8 cassa 1/4 pausa 1/4
+vuota
+vuota
+vuota
 
+## Per la prossima lezione preparare:
+Visionare tutto il materiale, con particolare attenzione alla pagina interattiva per suonare la batteria online e al video youtube.
 
-Per il prossimo incontro vi chiedo di visionare tutto il materiale, con particolare attenzione alla pagina interattiva per suonare la batteria online (consiglio di farlo da PC) e al video youtube.
-
-NON OBBLIGATORIO - PER I PIU' AUDACI E CORAGGIOSI, provare a trascrivere su pentagramma il DETTATO RITMICO CON VOCI BATTERIA in base alla LEGENDA BATTERIA
+NON OBBLIGATORIO - PER I PIU' AUDACI E CORAGGIOSI, provare a trascrivere su pentagramma il DETTATO RITMICO CON VOCI BATTERIA in base alla LEGENDA BATTERIA.
