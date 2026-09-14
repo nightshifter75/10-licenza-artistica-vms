@@ -1,5 +1,7 @@
 # Storia del Pop con Davide Papasidero
 
-WORK IN PROGRESS
+![Infografica](img/infografica/storia-del-pop-con-davide-papasidero.jpg)
 
-## Il Blues (Sabato 12 Settembre 2026)
+# Sabato 12 Settembre 2026 
+
+WORK IN PROGRESS
