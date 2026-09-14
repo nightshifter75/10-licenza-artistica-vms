@@ -151,7 +151,7 @@ Vi invio qui del materiale da studiare per il nostro prossimo incontro, previsto
 - [LEGENDA BATTERIA](pdf/legenda-batteria.pdf): la convenzione che utilizzeremo per scrivere la batteria sul pentagramma
 - [DEFINIZIONE DI RITMO](pdf/definizione-di-ritmo.pdf): una cosa carina che ho trovato in rete che ritengo utile da leggere per capire il significato di Ritmo
 - [⁠DRUM SET](pdf/drum-det.pdf): immagine della batteria (o drum set) con la definizione di ogni elemento principale.
-- ⁠PAGINA INTERATTIVA UTILISSIMA PER ISOLARE I DIVERSI SUONI DELLA BATTERIA: https://www.musicca.com/drums-
+- ⁠PAGINA INTERATTIVA UTILISSIMA PER ISOLARE I DIVERSI SUONI DELLA BATTERIA: https://www.musicca.com/drums
 - ⁠VIDEO PER COMPRENDERE BENE COME SI SCRIVE LA BATTERIA SU PENTAGRAMMA: https://youtu.be/XKxSJHLZtkI
 - DETTATO RITMICO CON VOCI BATTERIA: si tratta di un breve file audio in cui il tempo (pulsazione/bpm) è scandito da un metronomo, e ci sono alcune note (quarti ed ottavi) suonati da alcuni elementi della batteria. Non ci sono mai unisoni (a parte ovviamente quelli con il suono del metronomo), ogni suono che si può ascoltare è prodotto da un singolo elemento della batteria.
 
