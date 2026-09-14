@@ -158,5 +158,5 @@ Vi invio qui del materiale da studiare per il nostro prossimo incontro, previsto
 ## Per la prossima lezione preparare:
 Visionare tutto il materiale, con particolare attenzione alla pagina interattiva per suonare la batteria online e al video youtube.
 
-NON OBBLIGATORIO - PER I PIU' AUDACI E CORAGGIOSI, provare a trascrivere su pentagramma il [DETTATO RITMICO⁠](pdf/dettato-ritmico.pdf) CON VOCI BATTERIA in base alla LEGENDA BATTERIA.
+NON OBBLIGATORIO - PER I PIU' AUDACI E CORAGGIOSI, provare a trascrivere su pentagramma il [DETTATO RITMICO⁠](pdf/dettato-ritmico-1.pdf) CON VOCI BATTERIA in base alla LEGENDA BATTERIA.
 
