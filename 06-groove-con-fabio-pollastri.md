@@ -141,3 +141,24 @@ Il docente (un batterista) introduce il corso di musica d'insieme e consapevolez
 * **Rapporto tra BPM e battito cardiaco:** La maggior parte della musica da ballo si attesta tra i 100 e i 120 BPM perché questa velocità rispecchia la frequenza del battito cardiaco umano sotto sforzo o emozione.
 * **Valore primordiale del ritmo:** Il ritmo è la forma di espressione musicale più antica dell'umanità. Agisce sulla parte più istintiva del subconscio (motivo per cui spinge al movimento involontario o viene usato per caricare gli eserciti), legando la percezione fisica all'ascolto musicale.
 
+### Assegnazioni per la prossima volta
+
+Buongiorno a tutti ragazzi
+
+Vi invio qui del materiale da studiare per il nostro prossimo incontro, previsto per il 25 Ottobre.
+
+•⁠  ⁠NOZIONI BASILARI: un breve riassunto delle poche nozioni di teoria necessarie per questo corso di Groove
+•⁠  ⁠LEGENDA BATTERIA: la convenzione che utilizzeremo per scrivere la batteria sul pentagramma
+•⁠  ⁠DEFINIZIONE DI RITMO: una cosa carina che ho trovato in rete che ritengo utile da leggere per capire il significato di Ritmo
+•⁠  ⁠DRUM SET: immagine della batteria (o drum set) con la definizione di ogni elemento principale.
+•⁠  ⁠PAGINA INTERATTIVA UTILISSIMA PER ISOLARE I DIVERSI SUONI DELLA BATTERIA: https://www.musicca.com/drums 
+•⁠  ⁠VIDEO PER COMPRENDERE BENE COME SI SCRIVE LA BATTERIA SU PENTAGRAMMA - https://youtu.be/XKxSJHLZtkI
+•⁠  ⁠DETTATO RITMICO CON VOCI BATTERIA: si tratta di un breve file audio in cui il tempo (pulsazione/bpm) è scandito da un metronomo, e ci sono alcune note (quarti ed ottavi) suonati da alcuni elementi della batteria. Non ci sono mai unisoni (a parte ovviamente quelli con il suono del metronomo), ogni suono che si può ascoltare è prodotto da un singolo elemento della batteria.
+
+Per il prossimo incontro vi chiedo di visionare tutto il materiale, con particolare attenzione alla pagina interattiva per suonare la batteria online (consiglio di farlo da PC) e al video youtube.
+
+NON OBBLIGATORIO - PER I PIU' AUDACI E CORAGGIOSI, provare a trascrivere su pentagramma il DETTATO RITMICO CON VOCI BATTERIA in base alla LEGENDA BATTERIA
+
+Per qualsiasi dubbio non esitate a contattarmi.
+
+BUON LAVORO A TUTTI
