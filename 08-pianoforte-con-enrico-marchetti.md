@@ -2,7 +2,7 @@
 
 ![Infografica](img/infografica/pianoforte-con-enrico-marchetti.jpg)
 
-# Sabato 12 Settembre 2026 
+# Domenica 13 Settembre 2026 
 
 WORK IN PROGRESS
 
