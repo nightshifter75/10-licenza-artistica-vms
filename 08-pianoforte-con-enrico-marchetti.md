@@ -14,4 +14,4 @@
 
 <p align="justify">Quando si suona la chiave di violino con la mano destra, dopo una sequenza di 1, 2 e 3 si trova di nuovo 1, 2, 3, 4 e 5, bisogna sollevare la mano tenendo il medio sul E3 e ruotare la mano portando il pollice su F3, l'indice su G3, il medio su A3, l'anulare su B3 e il mignolo su C4. La stessa cosa vale il senso discendente quando dopo una sequenza di 5, 4, 3, 2, e 1 si trova una sequenza di 3, 2, e 1, il pollice deve essere tenuto sul tasto e la mano va ruotata in modo che il medio vada a cadere sul tasto precedente e indice e pollice sui due tasti corrispondenti.</p>
 
-<p align="justify">Contemporaneamente il movimento della mano sinistra si muove analogamente e effettua i cambi di diteggiatura nella parte ascendente come la parte discendente della mando destra (ma a specchio) e viceversa.</p>>
+<p align="justify">Contemporaneamente il movimento della mano sinistra si muove analogamente e effettua i cambi di diteggiatura nella parte ascendente come la parte discendente della mando destra (ma a specchio) e viceversa.</p>
