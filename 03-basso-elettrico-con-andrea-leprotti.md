@@ -1,6 +1,6 @@
 # Basso Elettrico con Andrea Leprotti
 
-![Infografica](img/infografica/basso-elettrico-con-andrea-leprotti.jpg)
+![Basso Elettrico con Andrea Leprotti](img/infografica/basso-elettrico-con-andrea-leprotti.jpg)
 
 # Domenica 13 Settembre 2026
 
