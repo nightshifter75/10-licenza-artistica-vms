@@ -35,6 +35,6 @@
 * Bobby Pickett – [*Monster Mash*](https://www.youtube.com/results?search_query=Bobby+Pickett+Monster+Mash)
 
 **Film e serie TV consigliate**
-* *The Blues Brothers* (Film)
-* *La signora del blues* (Film)
-* *The Blues* di Martin Scorsese (Serie TV)
+* *The Blues Brothers* (Film) – [Guarda su Prime Video](https://www.primevideo.com/-/it/detail/0TISNNFLMM5X0NYW2WX4RDRUCZ) / [Scheda JustWatch](https://www.justwatch.com/it/film/the-blues-brothers)
+* *La signora del blues* (Film) – [Noleggio/Acquisto su CHILI](https://it.chili.com/content/la-signora-del-blues-1972/bfa82068-5066-4ce9-a4e7-88ca4acde2a4) / [Google Play Film](https://play.google.com/store/movies/details/La_signora_del_blues?id=C96CAABBF0FCEF81MV&hl=it)
+* *The Blues* di Martin Scorsese (Serie TV) – [In programmazione / catalogo su RaiPlay](https://www.raiplay.it) / [Cerca disponibilità su JustWatch](https://www.justwatch.com/it/serie-tv/the-blues)
