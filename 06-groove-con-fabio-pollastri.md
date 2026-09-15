@@ -1,6 +1,6 @@
 # Groove con Fabio Pollastri
 
-![Groove con Fabio Pollastri](img/infografica/groove-con-fabio-pollastri.jpg)
+![Groove con Fabio Pollastri](img/groove-con-fabio-pollastri.jpg)
 
 ## Domenica 13 Settembre 2026
 

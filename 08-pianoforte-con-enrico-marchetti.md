@@ -1,6 +1,6 @@
 # Pianoforte con Enrico Marchetti
 
-![Pianoforte con Enrico Marchetti](img/infografica/pianoforte-con-enrico-marchetti.jpg)
+![Pianoforte con Enrico Marchetti](img/pianoforte-con-enrico-marchetti.jpg)
 
 # Domenica 13 Settembre 2026 
 

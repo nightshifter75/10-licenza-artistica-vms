@@ -1,6 +1,6 @@
 # Stile con Andrea Leprotti
 
-![Stile con Andrea Leprotti](img/infografica/stile-con-andrea-leprotti.jpg)
+![Stile con Andrea Leprotti](img/stile-con-andrea-leprotti.jpg)
 
 # Sabato 12 Settembre 2026 
 
