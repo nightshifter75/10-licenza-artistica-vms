@@ -84,6 +84,7 @@ Durante tutto il percorso triennale saranno oggetto di valutazione:
 * **Groove con Fabio Pollastri:** 1
 * **Musica d'insieme:** 6
 * **Pianoforte con Enrico Marchetti:** 1
+* **Inglese con *da definire*:** 1
 
 ### 🗓️ Calendario Incontri Primo Anno Accademico 2026/2027
 | Sessione | Date |
