@@ -25,7 +25,7 @@
 * Blues Brothers / Robert Johnson – [*Sweet Home Chicago*](https://www.youtube.com/results?search_query=Blues+Brothers+Sweet+Home+Chicago)
 * Muddy Waters – [*Hoochie Coochie Man*](https://www.youtube.com/results?search_query=Muddy+Waters+Hoochie+Coochie+Man)
 * Ray Charles – [*Hit the Road Jack*](https://www.youtube.com/results?search_query=Ray+Charles+Hit+the+Road+Jack)
-* Pino Daniele – [*Je so pazz*](https://www.youtube.com/results?search_query=Pino+Daniele+Je+so+pazz)
+* Pino Daniele – [*Je so' pazz'*](https://www.youtube.com/results?search_query=Pino+Daniele+Je+so+pazz)
 * B.B. King – [*You Upset Me Baby*](https://www.youtube.com/results?search_query=BB+King+You+Upset+Me+Baby)
 * Marvin Gaye – [*Baby Don't You Do It*](https://www.youtube.com/results?search_query=Marvin+Gaye+Baby+Don%27t+You+Do+It)
 
