@@ -59,7 +59,7 @@
 | VI° | A | A C E | minore |
 | VII° | B | B D F | diminuita |
 
-[Armonizzazione della Scala di C Maggiore e A minore](pdf/scala-di-c-maggiore-e-a-minore.pdf)
+[Armonizzazione della Scala di C Maggiore e A minore](pdf/armonizzazione-scala-c-maggiore.pdf)
 
 ## Giro Armonico
 
