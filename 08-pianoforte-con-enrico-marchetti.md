@@ -61,7 +61,7 @@
 
 [Armonizzazione della Scala di C Maggiore e A minore](pdf/armonizzazione-scala-c-maggiore.pdf)
 
-## Giro Armonico
+## Giro Armonico (DA VERIFICARE)
 
 <p align="justify">Un giro armonico è una successione di accordi appartenenti a una stessa tonalità che si ripete in un ordine preciso. Per descrivere un giro armonico si utilizzano i gradi di armonizzazione delle Scala Maggiore suonati, utilizzando lo stato fondamentale (F) o uno dei due rivolti (1° o 2°):</p>
 
@@ -72,7 +72,7 @@
 
 [Giro Armonico di C Maggiore e A minore](pdf/giro-armonico-c-maggiore-a-minore.pdf)
 
-# Brano Assegnato
+# Brano Assegnato (DA VERIFICARE)
 
 Eppure Sentire di Elisa.
 https://www.accordiespartiti.it/accordi/italiani/elisa/testo-accordi-e-spartito-per-pianoforte-di-eppure-sentire-elisa/
