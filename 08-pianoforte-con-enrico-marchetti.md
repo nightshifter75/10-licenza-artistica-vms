@@ -33,7 +33,7 @@
 
 | **Rivolto** | **Gradi** | **Diteggiatura** | **Triade di C Maggiore** |
 |:---|:---|:---|:---|
-| Stato fondamentale | 1, 3, 5 | 1 3 5 / 1 2 4 | C E G |
+| Stato Fondamentale | 1, 3, 5 | 1 3 5 / 1 2 4 | C E G |
 | Primo Rivolto | 3, 5, 1 | 1 2 5 / 1 2 4 | E G C |
 | Secondo Rivolto | 5, 1, 3 | 1 3 5 / 1 2 4 | G C E |
 
