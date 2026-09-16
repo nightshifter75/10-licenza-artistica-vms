@@ -39,7 +39,7 @@
 
 ## Arpeggio
 
-<p align="justify">Un arpeggio è una melodia che si realizza suonando una successione di note, seguendo il seguente schema (esempio dell'arpeggio di una triade di C Maggiore):</p>
+<p align="justify">Un arpeggio è una melodia che si realizza suonando una successione di note, suonando una triade su due ottave, seguendo il seguente schema con la diteggiatura che segue (esempio dell'arpeggio di una triade di C Maggiore):</p>
 
 | Dita | 1 | 2 | 3 | 1 | 2 | 3 | 5 |
 |:---|:---|:---|:---|:---|:---|:---|:---|
