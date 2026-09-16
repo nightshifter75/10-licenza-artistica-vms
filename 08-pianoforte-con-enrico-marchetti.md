@@ -6,7 +6,7 @@
 
 ## La Scala Maggiore e la relativa minore.
 
-<p align="justify">La Scala Maggiore è un insieme di note in successione per gradi congiunti che parte da una nota e che arriva alla stessa nota un'ottava sopra. La Scala minore relativa è composta dalla stessa successione di note, ma parte dal sesto grado della scala (considerando la prima nota della Scala Maggiore si prende la nota tre semitoni sotto quella della sua Scala Maggiore).</p>
+<p align="justify">La Scala Maggiore è un insieme di note in successione per gradi congiunti che parte da una nota e che arriva alla stessa nota un'ottava sopra. La Scala minore relativa è composta dalla stessa successione di note, ma parte dal sesto grado della scala, che si ottiene scendendo tre semitoni dalla prima nota della Scala Maggiore).</p>
 
 [Scala di C Maggiore e Scala di A minore](pdf/scala-di-c-maggiore-e-a-minore.pdf)
 
