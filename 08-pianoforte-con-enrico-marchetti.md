@@ -59,6 +59,8 @@
 | VI° | A | A C E | minore |
 | VII° | B | B D F | diminuita |
 
+[Armonizzazione della Scala di C Maggiore e A minore](pdf/scala-di-c-maggiore-e-a-minore.pdf)
+
 ## Giro Armonico
 
 <p align="justify">Un giro armonico è una successione di accordi appartenenti a una stessa tonalità che si ripete in un ordine preciso. Per descrivere un giro armonico si utilizzano i gradi di armonizzazione delle Scala Maggiore suonati, utilizzando lo stato fondamentale (F) o uno dei due rivolti (1° o 2°):</p>
@@ -68,7 +70,11 @@
 | Maggiore | I° F | II° F | V° 2° | I° 1° |
 | Minore | I° F | II° (6#) F | V° (7#) 2° | I° 1° |
 
+[Giro Armonico di C Maggiore e A minore](pdf/giro-armonico-c-maggiore-a-minore.pdf)
+
 # Brano Assegnato
 
 Eppure Sentire di Elisa.
 https://www.accordiespartiti.it/accordi/italiani/elisa/testo-accordi-e-spartito-per-pianoforte-di-eppure-sentire-elisa/
+
+[Eppure Sentire](pdf/eppure-sentire.pdf)
