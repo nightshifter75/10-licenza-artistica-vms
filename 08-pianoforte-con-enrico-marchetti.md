@@ -20,9 +20,55 @@
 
 <p align="justify">Una triade è un accordo formato da tre note suonate contemporaneamente. Si costruiscono con la prima, la terza e la quinta nota della scala. Si dividono in quattro tipi, si ricavano contando i semitoni dalla prima nota e si suonano utilizzando le diteggiature 1 3 5 / 1 2 4.</p>
 
-| **Triade** | **Gradi** | **Semitoni** |
-|:---|:---|:---|
-| Maggiore | 1, 3, 5 | 4 + 3 |
-| Minore | 1, 3b, 5 | 3 + 4 |
-| Diminuita | 1, 3b, 5b | 3 + 3 |
-| Aumentata | 1, 3, 5# | 4 + 4 |
+| **Triade** | **Gradi** | **Semitoni** | **Triade di C** |
+|:---|:---|:---|:---|
+| Maggiore | 1, 3, 5 | 4 + 3 | C E G |
+| Minore | 1, 3b, 5 | 3 + 4 | C Eb G |
+| Diminuita | 1, 3b, 5b | 3 + 3 | C Eb Gb |
+| Aumentata | 1, 3, 5# | 4 + 4 | C E G# |
+
+## Rivolti
+
+<p align="justify">Per facilitare l'esecuzione di una successione di accordi, si utilizzano i cosiddetti rivolti, ovvero anziché suonare una triade partendo dalla prima nota (stato fondamentale) si possono realizzare le stesse triadi partendo dalla seconda nota (primo rivolto) oppure dalla terza nota (secondo rivolto), in questo modo:</p>
+
+| **Rivolto** | **Gradi** | **Diteggiatura** | **Triade di C Maggiore** |
+|:---|:---|:---|:---|
+| Stato fondamentale | 1, 3, 5 | 1 3 5 / 1 2 4 | C E G |
+| Primo Rivolto | 3, 5, 1 | 1 2 5 / 1 2 4 | E G C |
+| Secondo Rivolto | 5, 1, 3 | 1 3 5 / 1 2 4 | G C E |
+
+## Arpeggio
+
+<p align="justify">Un arpeggio è una melodia che si realizza suonando una successione di note, seguendo il seguente schema (esempio dell'arpeggio di una triade di C Maggiore):</p>
+
+| Dita | 1 | 2 | 3 | 1 | 2 | 3 | 5 |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Nota | C3 | E3 | G3 | C4 | E4 | G4 | C5 |
+
+## Armonizzazione della Scala Maggiore
+
+<p align="justify">Partendo dalle note di una Scala Maggiore, e suonando ogni grado, a partire da quel grado si può costituire l'armonizzazione della scala, ovvero costruire un accordo su ciascun grado della scala, sovrapponendo intervalli di terza usando solo le note appartenenti alla scala di partenza. Per esempio:</p>
+
+| Grado | Nota | Triade | Tipo |
+|:---|:---|:---|:---|
+| I° | C | C E G | Maggiore |
+| II° | D | D F A | minore |
+| III° | E | E G B | minore |
+| IV° | F | F A C | Maggiore |
+| V° | G | G B D | Maggiore |
+| VI° | A | A C E | minore |
+| VII° | B | B D F | diminuita |
+
+## Giro Armonico
+
+<p align="justify">Un giro armonico è una successione di accordi appartenenti a una stessa tonalità che si ripete in un ordine preciso. Per descrivere un giro armonico si utilizzano i gradi di armonizzazione delle Scala Maggiore suonati, utilizzando lo stato fondamentale (F) o uno dei due rivolti (1° o 2°):</p>
+
+| Giro Armonico | Primo Accordo | Secondo Accordo | Terzo Accordo | Quanto Accordo |
+|:---|:---|:---|:---|:---|
+| Maggiore | I° F | II° F | V° 2° | I° 1° |
+| Minore | I° F | II° (6#) F | V° (7#) 2° | I° 1° |
+
+# Brano Assegnato
+
+Eppure Sentire di Elisa.
+https://www.accordiespartiti.it/accordi/italiani/elisa/testo-accordi-e-spartito-per-pianoforte-di-eppure-sentire-elisa/
