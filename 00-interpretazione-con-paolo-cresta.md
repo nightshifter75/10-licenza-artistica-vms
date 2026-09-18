@@ -4,9 +4,6 @@
 
 # Sabato 12 Settembre 2026
 
-Ecco la sbobinatura dell'audio, formattata in Markdown con i tag HTML richiesti:
-
-```markdown
 <p align="justify"><b>Relatore:</b> ...necessità. Che vuol dire? Per voi, che può significare? La forma è una conseguenza della necessità.</p>
 
 <p align="justify"><b>Intervento 1:</b> Che si adatta alla situazione che si ha davanti. Cioè, la forma si adatta al meglio alla situazione che ha davanti per poter effettivamente portare qualcosa.</p>
@@ -78,5 +75,3 @@ Ecco la sbobinatura dell'audio, formattata in Markdown con i tag HTML richiesti:
 <p align="justify"><b>Cantante:</b> Me la riesce a trasmettere anche...</p>
 
 <p align="justify"><b>Relatore:</b> Lui? Certo, sì. Ok. E ora tu devi fare lo stesso lavoro che fa lui. Ad esempio, che cosa accade? Noi siamo ascoltatori e ognuno di noi ha un cantante preferito, la musica preferita o che ascolta principalmente. E noi lì siamo, diciamo, passivi, nel senso che qualcuno fa qualcosa e noi godiamo di quello che fa qualcun altro. Ora quello che voi volete provare a fare è diventare voi il motore per far accadere questa cosa a qualcun altro. Ok? Bene. Ricomincia.</p>
-
-```
