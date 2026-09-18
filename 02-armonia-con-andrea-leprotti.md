@@ -69,3 +69,31 @@
 <p align="justify"><b>Intervento 4:</b> Beh, un armonico per definizione è un suono che sta insieme a un altro suono.</p>
 
 <p align="justify"><b>Relatore:</b> Esattamente! Lui dice... definiamo prima l'armonia invece della melodia. L'armonia sono più note suonate insieme. Tant'è che in italiano noi quando diciamo che due cose sono in armonia, anche le persone qui dentro sono in armonia perché son tante persone insieme, tu non stai da solo in armonia... o per lo meno dici "sono in armonia con me stesso", no? Per dire...</p>
+
+<p align="justify"><b>Relatore:</b> ...o qualcos'altro.</p>
+
+<p align="justify"><b>Intervento 2:</b> Quindi già da due li consideri?</p>
+
+<p align="justify"><b>Relatore:</b> Allora, due note insieme si chiamano proprio bicordo, bravo, stavo per dire. Da tre note in su si parla di accordi. Ok? La melodia quindi, a contrasto direi, no? Cioè con questa definizione, è semplicemente una serie di note singole nel tempo. Cioè noi vocalmente, di base, siamo strumenti melodici, no? Che a parte canto tibetano, armonico, cioè le cose strane che si mettono a fare gli armonici...</p>
+
+<p align="justify"><b>Intervento 4:</b> Gli overtones.</p>
+
+<p align="justify"><b>Relatore:</b> A parte gli overtones, noi cantiamo una nota per volta.</p>
+
+<p align="justify"><b>Intervento 2:</b> Ma quando si dice una persona non ha manco i problemi di armonici? Cioè se se...</p>
+
+<p align="justify"><b>Relatore:</b> Aspetta, quella è quella è una questione di fisica che adesso ci arriviamo, però è una cosa un po' diversa. Di fatto, vediamolo su uno spartito, no? Quando io vedo delle note una più a sinistra e una più a destra dell'altra, quella è una melodia. Perché che cos'è il pentagramma, no? Il... Il pentagramma è uno schema... Quanti odiano la matematica per alzata di mano? Ok, devo dire una cosa brutta, non mi odiate. Il pentagramma è una sorta di piano cartesiano, ve lo ricordate l'asse delle X e l'asse delle Y? L'asse delle X è il tempo, quindi il pentagramma che scorre è il tempo che va all'infinito, poi noi lo mandiamo a capo, ma quello sarebbe il tempo che va all'infinito.</p>
+
+<p align="justify"><b>Relatore:</b> Nell'asse delle Y, quindi quello che è più in alto e più in basso, c'è... Cosa c'è? Se una nota sta più in alto e più in basso cosa cambia? Altezza! Cioè se una nota è più alta, se una nota è più bassa, giusto? Quindi più la nota sta sotto è più è scura, più la nota è più alta e più son quelle difficili da cantare. <i>[risate]</i></p>
+
+<p align="justify"><b>Relatore:</b> Ok, quindi... La melodia è questo, banalmente. <i>[suona una melodia al pianoforte]</i> L'armonia è questo. <i>[suona un accordo al pianoforte]</i> Ok. Melodia, accordo, armonia.</p>
+
+<p align="justify"><b>Relatore:</b> Gli armonici sono un'altra questione. La faccio brevissima perché sennò diventa una lezione di fisica, eh. Però giusto per risponderti perché mi dispiace lasciarti così in sospeso. Ogni nota, o meglio ogni nota fondamentalmente ha una frequenza di base che è data dal numero di oscillazioni dell'onda al secondo in Hertz di misura, no? Hertz è lo scienziato che ha dato questa dimensione.</p>
+
+<p align="justify"><b>Relatore:</b> Quelli che che Gianluca giustamente chiamava gli overtones, cioè i toni superiori o armonici superiori, sono i multipli di questa frequenza intera. Cioè se tu hai una nota di base, facciamo finta un Do, ok? Facciamo finta perché non è così, che abbia 100 Hz, cioè 100 vibrazioni, l'onda che produce questa nota ha 100 vibrazioni al secondo, gli armonici superiori sono delle, diciamo sempre per banalizzare, eh, sto un po' stringendo, dei riflessi di questa nota che si creano ad intervalli di 200 Hz, cioè 100 x 2, 300 Hz, 100 x 3, 400... Si chiamano armonici superiori.</p>
+
+<p align="justify"><b>Relatore:</b> Questi armonici superiori non determinano l'altezza della nota perché l'altezza della nota sarà sempre 100 Hz, cioè la frequenza di base, ma ne determinano il timbro, il colore. Cioè il fatto che noi riconosciamo tutte voci diverse viene proprio dagli armonici superiori, che sono dati sostanzialmente dalla struttura del cavo orale su cui rimbalza il suono quando si produce dalle corde vocali e dall'ambiente in cui siamo, no? Cioè se entrate in un corridoio o in una stanza grande cambia proprio il suono e anche il riverbero di quel suono. Però se voi cantate Do, la nota rimane Do. In qualunque stanza siate quello è Do, ok?</p>
+
+<p align="justify"><b>Intervento 1:</b> Un'ultima domandina. Per dire, uno si frattura il naso e se lo rifà. Cambia il suono?</p>
+
+<p align="justify"><b>Relatore:</b> Cambia il suono! Cambia il suono anche solo da quanto... da quanto suono metti nel naso e quanto no. Cioè poi lo scoprirete perché questo è proprio l'ABC del VMS in tecnica. Cioè fare il suono nasale può essere un effetto... <i>[risate]</i> Fa schifo, è una roba che non riesco proprio a sentire su di me. Se...</p>
