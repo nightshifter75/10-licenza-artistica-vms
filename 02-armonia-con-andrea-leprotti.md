@@ -2,7 +2,7 @@
 
 ![Armonia con Andrea Leprotti](img/armonia-con-andrea-leprotti.jpg)
 
-# Sabato 12 Settembre 2026
+# Sabato 12 Settembre 2026 - Ear Training fino a pagina 35 
 
 <p align="justify"><b>Relatore:</b> Studiate magari poco, ma tutti i giorni, cioè riprendete lo stesso argomento più volte, perché per alcune cose servirà proprio un'assimilazione... È come quando fate uno sport o la palestra, capisci? Quelle robe che non puoi andare in palestra una volta a settimana otto ore, perché non puoi chiedere al tuo corpo di allenarsi otto ore. Devi andarci regolarmente, poco, tutti i giorni, capito? Perché sarebbe la memoria corporea, serve l'allenamento, serve rinfrescare dei concetti che devono diventare un po' automatici, no? Che all'inizio ti sembrano delle cose difficilissime e poi in realtà non lo sono.</p>
 
