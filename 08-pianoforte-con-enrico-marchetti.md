@@ -75,6 +75,7 @@
 # Brano Assegnato (DA VERIFICARE)
 
 Eppure Sentire di Elisa.
+
 https://www.accordiespartiti.it/accordi/italiani/elisa/testo-accordi-e-spartito-per-pianoforte-di-eppure-sentire-elisa/
 
 [Eppure Sentire](pdf/eppure-sentire.pdf)
