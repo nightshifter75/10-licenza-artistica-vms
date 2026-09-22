@@ -9,6 +9,8 @@
 [AMARO - Pinguini Tattici Nucleari](pdf/amaro-pinguini-tattici-nucleari.pdf)
 [BLURRED LINES - Robin Thicke](pdf/blurred-lines-robin-ticke.pdf)
 [GLICINE - Noemi](pdf/glicine-noemi.pdf)
+[LATITANTE - ditonellapiaga](pdf/latitante-ditonellapiaga.pdf)
+[PAZZA MUSICA - Marco Mengoni & Elodie](pdf/pazza-musica-marco-mengoni-e-elodie.pdf)
 
 # Domenica 25 Ottobre 2026
 
