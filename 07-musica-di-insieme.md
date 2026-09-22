@@ -4,5 +4,5 @@
 
 # Domenica 13 Settembre 2026 
 
-WORK IN PROGRESS
+[!LY - thasup](pdf/ily-thasup.pdf)
 
