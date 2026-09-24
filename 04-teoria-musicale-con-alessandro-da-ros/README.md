@@ -1,3 +1,3 @@
 # Teoria Musicale con Alessandro Da Ros
 
-![Teoria Musicale con Alessandro Da Ros](teoria-musicale-con-alessandro-da-ros.jpg)
+![Teoria Musicale con Alessandro Da Ros](img/teoria-musicale-con-alessandro-da-ros.jpg)
