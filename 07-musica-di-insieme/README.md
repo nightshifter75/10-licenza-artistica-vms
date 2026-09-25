@@ -5,12 +5,14 @@
 # Domenica 13 Settembre 2026 
 
 - [!LY - thasup](pdf/ily-thasup.pdf)
-- [DEVASTANTE - Olly & Juli](pdf/devastante-olly-e-juli.pdf)
+- [AIN'T NOTHING LIKE THE BLUES - Ella Fitzgerald](pdf/aint-nothing-like-the-blues.pdf)
 - [AMARO - Pinguini Tattici Nucleari](pdf/amaro-pinguini-tattici-nucleari.pdf)
 - [BLURRED LINES - Robin Thicke](pdf/blurred-lines-robin-ticke.pdf)
+- [DEVASTANTE - Olly & Juli](pdf/devastante-olly-e-juli.pdf)
 - [GLICINE - Noemi](pdf/glicine-noemi.pdf)
 - [LATITANTE - ditonellapiaga](pdf/latitante-ditonellapiaga.pdf)
 - [PAZZA MUSICA - Marco Mengoni & Elodie](pdf/pazza-musica-marco-mengoni-e-elodie.pdf)
+- [PER DUE COME NOI - Olly, Angelina Mango & Juli](pdf/per-due-come-noi-olly-angelina-mango-e-juli.pdf)
 
 # Domenica 25 Ottobre 2026
 
@@ -20,5 +22,3 @@
 - **NAOTO:** [SI AH - Frah Quintale](pdf/si-ah-frah-quintale.pdf)
 - **FRANCESCO E ANITA:** [TI AMO NON LO DIRE - Noemi](pdf/ti-amo-non-lo-dire.pdf)
 - **ELENA E SOFIA:** [PAZZA MUSICA - Marco Mengoni & Elodie](pdf/pazza-musica-marco-mengoni-e-elodie.pdf)
-
-
