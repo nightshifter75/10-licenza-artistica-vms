@@ -23,4 +23,4 @@
 - **ELENA E SOFIA:** [PAZZA MUSICA - Marco Mengoni & Elodie](pdf/pazza-musica-marco-mengoni-e-elodie.pdf)
 - [KOZMIC BLUES - Janis Joplin](pdf/kozmic-blues-janis-joplin.pdf)
 - [YER BLUES - The Beatles](pdf/yer-blues-the-beatles.pdf)
-- [TENNESSE WHISKY - Chris Stapleton](pdf/tennesse-whisky-chris-stapleton.pdf)
+- [TENNESSEE WHISKY - Chris Stapleton](pdf/tennessee-whisky-chris-stapleton.pdf)
