@@ -19,7 +19,7 @@
 - **AURELIA E TAMIRI:** [UNA DIREZIONE GIUSTA - thasup - Neffa - Youngest Moonstar](pdf/una-direzione-giusta-thasup-neffa-youngest-moonstar.pdf)
 - **SIRIA E ANASTASIIA:** [LA NOIA - Angelina Mango](pdf/la-noia-angelina-mango.pdf)
 - **NAOTO:** [SI AH - Frah Quintale](pdf/si-ah-frah-quintale.pdf)
-- **FRANCESCO E ANITA:** [TI AMO NON LO SO DIRE - Noemi](pdf/ti-amo-non-lo-so-dire.pdf)
+- **FRANCESCO E ANITA:** [TI AMO MA NON LO SO DIRE - Noemi](pdf/ti-amo-ma-non-lo-so-dire-noemi.pdf)
 - **ELENA E SOFIA:** [PAZZA MUSICA - Marco Mengoni & Elodie](pdf/pazza-musica-marco-mengoni-e-elodie.pdf)
 - [KOZMIC BLUES - Janis Joplin](pdf/kozmic-blues.pdf)
 - [YER BLUES - The Beatles](pdf/yer-blues-the-beatles.pdf)
