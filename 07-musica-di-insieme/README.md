@@ -11,7 +11,6 @@
 - [DEVASTANTE - Olly & Juli](pdf/devastante-olly-e-juli.pdf)
 - [GLICINE - Noemi](pdf/glicine-noemi.pdf)
 - [LATITANTE - ditonellapiaga](pdf/latitante-ditonellapiaga.pdf)
-- [PAZZA MUSICA - Marco Mengoni & Elodie](pdf/pazza-musica-marco-mengoni-e-elodie.pdf)
 - [PER DUE COME NOI - Olly, Angelina Mango & Juli](pdf/per-due-come-noi-olly-angelina-mango-e-juli.pdf)
 
 # Domenica 25 Ottobre 2026
@@ -22,3 +21,6 @@
 - **NAOTO:** [SI AH - Frah Quintale](pdf/si-ah-frah-quintale.pdf)
 - **FRANCESCO E ANITA:** [TI AMO NON LO SO DIRE - Noemi](pdf/ti-amo-non-lo-so-dire.pdf)
 - **ELENA E SOFIA:** [PAZZA MUSICA - Marco Mengoni & Elodie](pdf/pazza-musica-marco-mengoni-e-elodie.pdf)
+- [KOZMIC BLUES - Janis Joplin](pdf/kozmic-blues.pdf)
+- [YER BLUES - The Beatles](pdf/yer-blues-the-beatles.pdf)
+- [TENNESSE WHISKY - Chris Stapleton](pdf/tennesse-whisky.pdf)
