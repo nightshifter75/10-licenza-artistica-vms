@@ -16,7 +16,7 @@
 # Domenica 25 Ottobre 2026
 
 - **LORENZO E DARIO:** [SCRIVILE SCEMO - Pinguini Tattici Nucleari](pdf/scrivile-scemo-pinguini-tattici-nucleari.pdf)
-- **AURELIA E TAMIRI:** [UNA DIREZIONE GIUSTA - thasup](pdf/una-direzione-giusta.pdf)
+- **AURELIA E TAMIRI:** [UNA DIREZIONE GIUSTA - thasup - Neffa - Youngest Moonstar](pdf/una-direzione-giusta-thasup-neffa-youngest-moonstar.pdf)
 - **SIRIA E ANASTASIIA:** [LA NOIA - Angelina Mango](pdf/la-noia-angelina-mango.pdf)
 - **NAOTO:** [SI AH - Frah Quintale](pdf/si-ah-frah-quintale.pdf)
 - **FRANCESCO E ANITA:** [TI AMO NON LO SO DIRE - Noemi](pdf/ti-amo-non-lo-so-dire.pdf)
