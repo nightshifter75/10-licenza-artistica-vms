@@ -24,3 +24,4 @@
 - [KOZMIC BLUES - Janis Joplin](pdf/kozmic-blues-janis-joplin.pdf)
 - [YER BLUES - The Beatles](pdf/yer-blues-the-beatles.pdf)
 - [TENNESSEE WHISKY - Chris Stapleton](pdf/tennessee-whisky-chris-stapleton.pdf)
+- [BLU PART II - Elisa & Rkomi](pdf/blu-part-ii-elisa-e-rkomi.pdf)
