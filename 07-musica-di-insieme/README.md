@@ -5,7 +5,7 @@
 # Domenica 13 Settembre 2026 
 
 - [!LY - thasup](pdf/ily-thasup.pdf)
-- [AIN'T NOTHING LIKE THE BLUES - Ella Fitzgerald](pdf/aint-nothing-like-the-blues.pdf)
+- [I AIN'T GOT NOTHING BUT THE BLUES - Ella Fitzgerald](pdf/i-aint-got-nothing-but-the-blues.pdf)
 - [AMARO - Pinguini Tattici Nucleari](pdf/amaro-pinguini-tattici-nucleari.pdf)
 - [BLURRED LINES - Robin Thicke](pdf/blurred-lines-robin-ticke.pdf)
 - [DEVASTANTE - Olly & Juli](pdf/devastante-olly-e-juli.pdf)
