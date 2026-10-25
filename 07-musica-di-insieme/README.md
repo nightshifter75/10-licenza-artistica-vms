@@ -25,3 +25,11 @@
 - [YER BLUES - The Beatles](pdf/yer-blues-the-beatles.pdf)
 - [TENNESSEE WHISKY - Chris Stapleton](pdf/tennessee-whisky-chris-stapleton.pdf)
 - [BLU PART II - Elisa & Rkomi](pdf/blu-part-ii-elisa-e-rkomi.pdf)
+
+
+Losing my religion - Rem : Naoto  
+New Shoes - Paolo Nutini : Lorenzo e Tamiri
+One - U2 : Anastasiia e Anita  
+Kiss me - Sixpence non the richer : Elena e Francesco  
+Don't look back in anger - Oasis : Sofia e Aurelia
+Everybody's changing - Kean : SIria e Dario
