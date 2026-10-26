@@ -25,11 +25,14 @@
 - [YER BLUES - The Beatles](pdf/yer-blues-the-beatles.pdf)
 - [TENNESSEE WHISKY - Chris Stapleton](pdf/tennessee-whisky-chris-stapleton.pdf)
 - [BLU PART II - Elisa & Rkomi](pdf/blu-part-ii-elisa-e-rkomi.pdf)
+- [100 MESSAGGI - Lazza](pdf/100-messaggi-lazzal.pdf)
+- [GOLDEN - Huntr](pdf/golden-huntr.pdf)
 
+# Domenica 22 Novembre 2026
 
-Losing my religion - Rem : Naoto  
-New Shoes - Paolo Nutini : Lorenzo e Tamiri
-One - U2 : Anastasiia e Anita  
-Kiss me - Sixpence non the richer : Elena e Francesco  
-Don't look back in anger - Oasis : Sofia e Aurelia
-Everybody's changing - Kean : SIria e Dario
+- **NAOTO:** [LOSING MY RELIGION - R.E.M.](pdf/losing-my-religion-rem.pdf)
+- **LORENZO E TAMIRI:** [NEW SHOES - Paolo Nutini](pdf/new-shoes-paolo-nutini.pdf)
+- **ANITA E ANASTASIIA:** [ONE - U2](pdf/one-u2.pdf)
+- **ELENA E FRANCESCO:** [KISS ME - Sixpence None the Richer](pdf/kiss-me-sixpence-none-the-richer.pdf)
+- **SOFIA E AURELIA:** [DON'T LOOK BACK IN ANGER - Oasis](pdf/dont-look-back-in-anger-oasis.pdf)
+- **SIRIA E DARIO:** [EVERYBODY'S CHANGING - Keane](pdf/everybodys-changing-keane.pdf)
