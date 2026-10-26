@@ -25,7 +25,7 @@
 - [YER BLUES - The Beatles](pdf/yer-blues-the-beatles.pdf)
 - [TENNESSEE WHISKY - Chris Stapleton](pdf/tennessee-whisky-chris-stapleton.pdf)
 - [BLU PART II - Elisa & Rkomi](pdf/blu-part-ii-elisa-e-rkomi.pdf)
-- [100 MESSAGGI - Lazza](pdf/100-messaggi-lazzal.pdf)
+- [100 MESSAGGI - Lazza](pdf/100-messaggi-lazza.pdf)
 - [GOLDEN - Huntr](pdf/golden-huntr.pdf)
 - [BELIEVE - Adam Lambert](pdf/believe-adam-lambert.pdf)
 
