@@ -27,6 +27,7 @@
 - [BLU PART II - Elisa & Rkomi](pdf/blu-part-ii-elisa-e-rkomi.pdf)
 - [100 MESSAGGI - Lazza](pdf/100-messaggi-lazzal.pdf)
 - [GOLDEN - Huntr](pdf/golden-huntr.pdf)
+- [BELIEVE - Adam Lambert](pdf/believe-adam-lambert.pdf)
 
 # Domenica 22 Novembre 2026
 
