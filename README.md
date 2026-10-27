@@ -104,6 +104,7 @@ Durante tutto il percorso triennale saranno oggetto di valutazione:
 * Modern Piano di Gabriele Bernardi - edizioni Rugginenti - ISBN 978-88-76656-61-3
 * Ear Training di Andrea Leprotti - edizioni Rugginenti - ISBN 978-88-76656-59-0
 * Analisi degli Stili Musicali Moderni di Andrea Leprotti - edizioni Rugginenti - ISBN 978-88-76656-81-1
+* Sightsinging. Il metodo completo per cantanti di Mike Campbell – edizioni Volonté&Co - ISBN 978-88-63880-71-7
 * PDF forniti dagli insegnanti
 
 ---
