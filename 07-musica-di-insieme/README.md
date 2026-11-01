@@ -37,3 +37,7 @@
 - **ELENA E FRANCESCO:** [KISS ME - Sixpence None the Richer](pdf/kiss-me-sixpence-none-the-richer.pdf)
 - **SOFIA E AURELIA:** [DON'T LOOK BACK IN ANGER - Oasis](pdf/dont-look-back-in-anger-oasis.pdf)
 - **SIRIA E DARIO:** [EVERYBODY'S CHANGING - Keane](pdf/everybodys-changing-keane.pdf)
+- [A CHANGE IS GONNA COME - Aretha Franklin](pdf/a-change-is-gonna-come-aretha-franklin.pdf)
+- [I HEARD IT THROUGH THE GRAPEVINE - Marvin Gaye](pdf/I-heard-it-through-the-grapevine-marvin-gaye.pdf)
+- [IT'S A MAN'S MAN'S MAN'S WORLD - James Brown](pdf/its-amans-mans-mans-world-james-brown.pdf)
+- [OVERJOYED - Stevie Wonder](pdf/overjoyed-stevie-wonder.pdf)
