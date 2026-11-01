@@ -39,5 +39,5 @@
 - **SIRIA E DARIO:** [EVERYBODY'S CHANGING - Keane](pdf/everybodys-changing-keane.pdf)
 - [A CHANGE IS GONNA COME - Aretha Franklin](pdf/a-change-is-gonna-come-aretha-franklin.pdf)
 - [I HEARD IT THROUGH THE GRAPEVINE - Marvin Gaye](pdf/i-heard-it-through-the-grapevine-marvin-gaye.pdf)
-- [IT'S A MAN'S MAN'S MAN'S WORLD - James Brown](pdf/its-amans-mans-mans-world-james-brown.pdf)
+- [IT'S A MAN'S MAN'S MAN'S WORLD - James Brown](pdf/its-a-mans-mans-mans-world-james-brown.pdf)
 - [OVERJOYED - Stevie Wonder](pdf/overjoyed-stevie-wonder.pdf)
