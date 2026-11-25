@@ -36,12 +36,12 @@
 
 <p align="justify">Attualmente l’artista più venduta è Ariana Grande.</p>
 
-<p align="justify">Un'evoluzione dell’R&amp;B è la trap.</p>
+<p align="justify">Un'evoluzione dell’R&amp;B è la Trap.</p>
 
 <p align="justify"><strong>Brani da ascoltare:</strong></p>
 
 <p align="justify">
-Crazy in Love (Beyoncé)<br>
+Crazy in Love – Beyoncé<br>
 Dangerously in Love – Beyoncé<br>
 Halo – Beyoncé<br>
 Broken-Hearted Girl – Beyoncé<br>
