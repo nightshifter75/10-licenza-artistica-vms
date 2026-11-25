@@ -38,33 +38,30 @@
 
 <p align="justify">Un'evoluzione dell’R&amp;B è la Trap.</p>
 
-<p align="justify"><strong>Brani da ascoltare:</strong></p>
-
-<p align="justify">
-Crazy in Love – Beyoncé<br>
-Dangerously in Love – Beyoncé<br>
-Halo – Beyoncé<br>
-Broken-Hearted Girl – Beyoncé<br>
-Beautiful – Christina Aguilera<br>
-Lady Marmalade – Christina Aguilera<br>
-Dirrty – Christina Aguilera<br>
-The Voice Within – Christina Aguilera<br>
-Impossible – Christina Aguilera<br>
-We Belong Together – Mariah Carey<br>
-Hero – Mariah Carey<br>
-My All – Mariah Carey<br>
-No Air – Jordin Sparks<br>
-I Will Always Love You – Whitney Houston<br>
-I Wanna Dance with Somebody – Whitney Houston<br>
-Run to You – Whitney Houston<br>
-Greatest Love of All – Whitney Houston<br>
-Family Affair – Mary J. Blige<br>
-I Believe I Can Fly – R. Kelly<br>
-No One – Alicia Keys<br>
-If I Ain’t Got You – Alicia Keys<br>
-My Boo – Alicia Keys<br>
-No Scrubs – TLC<br>
-Independent Women – Destiny’s Child<br>
-Problems – Ariana Grande<br>
-Don’t Look Up – Ariana Grande
-</p>
+**Ascolti consigliati: Contemporary R&B**
+- Beyoncé – [*Crazy in Love*](https://www.youtube.com/results?search_query=Beyonce+Crazy+in+Love)
+- Beyoncé – [*Dangerously in Love*](https://www.youtube.com/results?search_query=Beyonce+Dangerously+in+Love)
+- Beyoncé – [*Halo*](https://www.youtube.com/results?search_query=Beyonce+Halo)
+- Beyoncé – [*Broken-Hearted Girl*](https://www.youtube.com/results?search_query=Beyonce+Broken+Hearted+Girl)
+- Christina Aguilera – [*Beautiful*](https://www.youtube.com/results?search_query=Christina+Aguilera+Beautiful)
+- Christina Aguilera – [*Lady Marmalade*](https://www.youtube.com/results?search_query=Christina+Aguilera+Lady+Marmalade)
+- Christina Aguilera – [*Dirrty*](https://www.youtube.com/results?search_query=Christina+Aguilera+Dirrty)
+- Christina Aguilera – [*The Voice Within*](https://www.youtube.com/results?search_query=Christina+Aguilera+The+Voice+Within)
+- Christina Aguilera – [*Impossible*](https://www.youtube.com/results?search_query=Christina+Aguilera+Impossible)
+- Mariah Carey – [*We Belong Together*](https://www.youtube.com/results?search_query=Mariah+Carey+We+Belong+Together)
+- Mariah Carey – [*Hero*](https://www.youtube.com/results?search_query=Mariah+Carey+Hero)
+- Mariah Carey – [*My All*](https://www.youtube.com/results?search_query=Mariah+Carey+My+All)
+- Jordin Sparks – [*No Air*](https://www.youtube.com/results?search_query=Jordin+Sparks+No+Air)
+- Whitney Houston – [*I Will Always Love You*](https://www.youtube.com/results?search_query=Whitney+Houston+I+Will+Always+Love+You)
+- Whitney Houston – [*I Wanna Dance with Somebody*](https://www.youtube.com/results?search_query=Whitney+Houston+I+Wanna+Dance+with+Somebody)
+- Whitney Houston – [*Run to You*](https://www.youtube.com/results?search_query=Whitney+Houston+Run+to+You)
+- Whitney Houston – [*Greatest Love of All*](https://www.youtube.com/results?search_query=Whitney+Houston+Greatest+Love+of+All)
+- Mary J. Blige – [*Family Affair*](https://www.youtube.com/results?search_query=Mary+J+Blige+Family+Affair)
+- R. Kelly – [*I Believe I Can Fly*](https://www.youtube.com/results?search_query=R+Kelly+I+Believe+I+Can+Fly)
+- Alicia Keys – [*No One*](https://www.youtube.com/results?search_query=Alicia+Keys+No+One)
+- Alicia Keys – [*If I Ain’t Got You*](https://www.youtube.com/results?search_query=Alicia+Keys+If+I+Aint+Got+You)
+- Alicia Keys – [*My Boo*](https://www.youtube.com/results?search_query=Alicia+Keys+My+Boo)
+- TLC – [*No Scrubs*](https://www.youtube.com/results?search_query=TLC+No+Scrubs)
+- Destiny’s Child – [*Independent Women*](https://www.youtube.com/results?search_query=Destinys+Child+Independent+Women)
+- Ariana Grande – [*Problems*](https://www.youtube.com/results?search_query=Ariana+Grande+Problem)
+- Ariana Grande – [*Don’t Look Up*](https://www.youtube.com/results?search_query=Ariana+Grande+Dont+Look+Up)
