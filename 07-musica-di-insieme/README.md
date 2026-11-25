@@ -28,6 +28,7 @@
 - [100 MESSAGGI - Lazza](pdf/100-messaggi-lazza.pdf)
 - [GOLDEN - Huntr](pdf/golden-huntr.pdf)
 - [BELIEVE - Adam Lambert](pdf/believe-adam-lambert.pdf)
+- [RUSSIAN ROULETTE - Rihanna](pdf/russian-roulette-rihanna.pdf)
 
 # Domenica 22 Novembre 2026
 
@@ -41,3 +42,16 @@
 - [I HEARD IT THROUGH THE GRAPEVINE - Marvin Gaye](pdf/i-heard-it-through-the-grapevine-marvin-gaye.pdf)
 - [IT'S A MAN'S MAN'S MAN'S WORLD - James Brown](pdf/its-a-mans-mans-mans-world-james-brown.pdf)
 - [OVERJOYED - Stevie Wonder](pdf/overjoyed-stevie-wonder.pdf)
+- [ANCORA ANCORA ANCORA - Mina](pdf/ancora-ancora-ancora-mina.pdf)
+- [DUE - Elodie](pdf/due-elodie.pdf)
+- [IT'S NOT UNUSUAL - Tom Jones](pdf/its-not-unusual-tom-jones.pdf)
+- [MORIRÒ DA RE - Måneskin](pdf/moriro-da-re-maneskin.pdf)
+- [WHEN LOVE TAKES OVER - David Guetta - Kelly Rowland](pdf/when-love-takes-over-david-guetta-kelly-rowland.pdf)
+  
+# Domenica 12 Dicembre 2026
+
+- [ERASE/REWIND - The Cardigans](pdf/erase-rewind-the-cardigans.pdf)
+- [HOW TO SAVE A LIFE - The Fray](pdf/how-to-save-a-life-the-fray.pdf)
+- [OTHER SIDE OF THE WORLD - KT Tunstall](pdf/other-side-of-the-world-kt-tunstall.pdf)
+- [PHOTOGRAPH - Ed Sheeran](pdf/photograph-ed-sheeran.pdf)
+- [SUPREME - Robbie Williams](pdf/supreme-robbie-williams.pdf)
