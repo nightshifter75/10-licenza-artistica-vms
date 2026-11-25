@@ -1,4 +1,4 @@
-# Domenica 22 Novembre 2026 
+# Domenica 22 Novembre 2026
 
 ## Contemporary R&B
 
@@ -12,7 +12,7 @@
 
 <p align="justify">Grande esponente del genere è la cantante statunitense Mariah Carey, soprannominata regina del R&amp;B contemporaneo; durante la sua carriera ha combinato generi diversi tra soul, hip hop e anche gospel, e ha inserito e reso famoso l'R&amp;B contemporaneo nel mainstream della cultura popolare.</p>
 
-<p align="justify">Il contemporary R&amp;B nacque con la fine dell'era della disco music, alla fine degli anni 80, quando Michael Jackson e Quincy Jones incominciarono ad aggiungere elementi elettronici alla black music dell'epoca per creare una sonorità più flessuosa e adatta alla pista da ballo.[5] Un primo esempio di questo genere è l'album Off the Wall (1979).</p>
+<p align="justify">Il contemporary R&amp;B nacque con la fine dell'era della disco music, alla fine degli anni 80, quando Michael Jackson e Quincy Jones incominciarono ad aggiungere elementi elettronici alla black music dell'epoca per creare una sonorità più flessuosa e adatta alla pista da ballo. Un primo esempio di questo genere è l'album Off the Wall (1979).</p>
 
 <p align="justify">Janet Jackson contribuì con il suo album Control (1986) "allo sviluppo del R&amp;B sotto diversi aspetti", in quanto lei e i produttori, Jimmy Jam e Terry Lewis, "forgiarono un nuovo sound che fonde gli elementi ritmici del funk e della disco con dosi massicce di sintetizzatori, percussioni, effetti sonori, e una sensibilità da musica rap."</p>
 
