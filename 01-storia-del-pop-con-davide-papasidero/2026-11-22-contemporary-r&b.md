@@ -6,7 +6,7 @@
 
 <p align="justify">Il contemporary R&amp;B è un genere musicale che combina elementi di, pop, soul, funk e hip hop.</p>
 
-<p align="justify">Anche se l'abbreviazione "R&amp;B" trae origini dal rhythm and blues tradizionale, oggi il termine R&amp;B è spesso usato per descrivere il tipo di musica afro-americana che nasce dopo la fine della disco degli anni '80, e non ha quindi nulla a che fare con il Rythm and blues. Alcuni fanno riferimento a questo stile chiamandolo "urban contemporary" (il nome del radio format che suona hip hop e R&amp;B contemporaneo).</p>
+<p align="justify">Anche se l'abbreviazione "R&amp;B" trae origini dal rhythm and blues tradizionale, oggi il termine R&amp;B è spesso usato per descrivere il tipo di musica afro-americana che nasce dopo la fine della disco degli anni '80, e non ha quindi nulla a che fare con il rhythm and blues. Alcuni fanno riferimento a questo stile chiamandolo "urban contemporary" (il nome del radio format che suona hip hop e R&amp;B contemporaneo).</p>
 
 <p align="justify">L'R&amp;B contemporaneo presenta una produzione discografica curata, un ritmo marcato dall'uso di drum machine e occasionalmente anche un beat di sassofono per conferire un'atmosfera più jazz (caratteristica comune delle canzoni contemporary R&amp;B fino al 1995) e una tecnica vocale caratterizzata da un cantato morbido e seducente. Elementi di musica elettronica sono recentemente molto in voga, e l'utilizzo di beat hip hop o di musica dance sono molto comuni, sebbene l'aggressività dell'hip hop venga spesso smussata nel R&amp;B. I cantanti R&amp;B fanno notoriamente uso del melisma, ampiamente utilizzato da Michael Jackson, R. Kelly, Stevie Wonder, Whitney Houston, Mariah Carey, Beyoncè e Christina Aguilera.</p>
 
